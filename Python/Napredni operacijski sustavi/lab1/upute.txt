@@ -1,0 +1,12 @@
+Programi su ostvareni u programskom jeziku Python. 
+Pokretani su putem Visual Studio Code.
+
+Za pokretanje Vježbe 1.a) potrebno je pokreniti vrtuljak.py
+Vrtuljak je postavljen na 8 posjetitelja, 4 mjesta i svaki posjetitelj ima 2 karte. Vrijednosti je moguæe promjeniti:
+broj mjesta i broj karata po posjetitelju je moguæe promjeniti slanjem odreðenih vrijednosti pri pozivu funkcije Carousel()
+broj posjetitelja je moguæe promjeniti slanjem vrijednosti pri pozivu carousel.work()
+
+Za pokretanje Vježbe 1.b) potrebno je pokreniti filozofi.py
+Sinkronizacija je ostvarena protokolom Ricarta i Agrawala.
+Broj filozofa na konferenciji je postavljeno na 4
+Svaki filozof sudjeluje samo jednom.

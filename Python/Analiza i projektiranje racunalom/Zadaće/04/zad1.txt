@@ -1,0 +1,781 @@
+(iter: 0) Current best is [9.353, 97.818] with a rating of 10754.028
+(iter: 100) Current best is [-1.886, 6.581] with a rating of 923.624
+(iter: 200) Current best is [-5.504, 30.088] with a rating of 46.475
+(iter: 300) Current best is [-0.149, 0.444] with a rating of 19.145
+(iter: 400) Current best is [-0.320, -0.064] with a rating of 4.517
+(iter: 500) Current best is [0.013, 0.051] with a rating of 1.228
+(iter: 600) Current best is [0.167, 0.090] with a rating of 1.084
+(iter: 700) Current best is [0.292, 0.070] with a rating of 0.525
+(iter: 800) Current best is [0.312, 0.098] with a rating of 0.473
+(iter: 900) Current best is [0.312, 0.098] with a rating of 0.473
+(iter: 1000) Current best is [0.390, 0.141] with a rating of 0.385
+(iter: 1100) Current best is [0.381, 0.148] with a rating of 0.384
+(iter: 1200) Current best is [0.417, 0.158] with a rating of 0.367
+(iter: 1300) Current best is [0.417, 0.158] with a rating of 0.367
+(iter: 1400) Current best is [0.417, 0.158] with a rating of 0.367
+(iter: 1500) Current best is [0.417, 0.158] with a rating of 0.367
+(iter: 1600) Current best is [0.417, 0.158] with a rating of 0.367
+(iter: 1700) Current best is [0.417, 0.158] with a rating of 0.367
+(iter: 1800) Current best is [0.409, 0.169] with a rating of 0.350
+(iter: 1900) Current best is [0.409, 0.169] with a rating of 0.350
+(iter: 2000) Current best is [0.409, 0.169] with a rating of 0.350
+(iter: 2100) Current best is [0.409, 0.169] with a rating of 0.350
+(iter: 2200) Current best is [0.409, 0.169] with a rating of 0.350
+(iter: 2300) Current best is [0.449, 0.199] with a rating of 0.304
+(iter: 2400) Current best is [0.560, 0.294] with a rating of 0.230
+(iter: 2500) Current best is [0.543, 0.281] with a rating of 0.229
+(iter: 2600) Current best is [0.543, 0.281] with a rating of 0.229
+(iter: 2700) Current best is [0.552, 0.288] with a rating of 0.229
+(iter: 2800) Current best is [0.549, 0.289] with a rating of 0.219
+(iter: 2900) Current best is [0.557, 0.299] with a rating of 0.209
+(iter: 3000) Current best is [0.553, 0.302] with a rating of 0.201
+(iter: 3100) Current best is [0.553, 0.302] with a rating of 0.201
+(iter: 3200) Current best is [0.560, 0.305] with a rating of 0.200
+(iter: 3300) Current best is [0.560, 0.305] with a rating of 0.200
+(iter: 3400) Current best is [0.560, 0.305] with a rating of 0.200
+(iter: 3500) Current best is [0.560, 0.305] with a rating of 0.200
+(iter: 3600) Current best is [0.557, 0.305] with a rating of 0.199
+(iter: 3700) Current best is [0.557, 0.305] with a rating of 0.199
+(iter: 3800) Current best is [0.557, 0.305] with a rating of 0.199
+(iter: 3900) Current best is [0.557, 0.312] with a rating of 0.197
+(iter: 4000) Current best is [0.557, 0.312] with a rating of 0.197
+(iter: 4100) Current best is [0.557, 0.310] with a rating of 0.197
+(iter: 4200) Current best is [0.557, 0.309] with a rating of 0.197
+(iter: 4300) Current best is [0.557, 0.309] with a rating of 0.197
+(iter: 4400) Current best is [0.557, 0.309] with a rating of 0.197
+(iter: 4500) Current best is [0.557, 0.308] with a rating of 0.196
+(iter: 4600) Current best is [0.557, 0.308] with a rating of 0.196
+(iter: 4700) Current best is [0.557, 0.309] with a rating of 0.196
+(iter: 4800) Current best is [0.557, 0.309] with a rating of 0.196
+(iter: 4900) Current best is [0.559, 0.309] with a rating of 0.196
+(iter: 5000) Current best is [0.559, 0.309] with a rating of 0.196
+(iter: 5100) Current best is [0.633, 0.409] with a rating of 0.143
+(iter: 5200) Current best is [0.724, 0.532] with a rating of 0.082
+(iter: 5300) Current best is [0.828, 0.671] with a rating of 0.050
+(iter: 5400) Current best is [0.787, 0.616] with a rating of 0.046
+(iter: 5500) Current best is [0.796, 0.628] with a rating of 0.045
+(iter: 5600) Current best is [0.796, 0.628] with a rating of 0.045
+(iter: 5700) Current best is [0.815, 0.655] with a rating of 0.043
+(iter: 5800) Current best is [0.815, 0.655] with a rating of 0.043
+(iter: 5900) Current best is [0.815, 0.655] with a rating of 0.043
+(iter: 6000) Current best is [0.813, 0.652] with a rating of 0.043
+(iter: 6100) Current best is [0.800, 0.634] with a rating of 0.043
+(iter: 6200) Current best is [0.801, 0.636] with a rating of 0.043
+(iter: 6300) Current best is [0.802, 0.642] with a rating of 0.040
+(iter: 6400) Current best is [0.802, 0.642] with a rating of 0.040
+(iter: 6500) Current best is [0.802, 0.642] with a rating of 0.039
+(iter: 6600) Current best is [0.802, 0.642] with a rating of 0.039
+(iter: 6700) Current best is [0.803, 0.642] with a rating of 0.039
+(iter: 6800) Current best is [0.803, 0.642] with a rating of 0.039
+(iter: 6900) Current best is [0.803, 0.642] with a rating of 0.039
+(iter: 7000) Current best is [0.803, 0.642] with a rating of 0.039
+(iter: 7100) Current best is [0.803, 0.642] with a rating of 0.039
+(iter: 7200) Current best is [0.802, 0.642] with a rating of 0.039
+(iter: 7300) Current best is [0.802, 0.642] with a rating of 0.039
+(iter: 7400) Current best is [0.802, 0.642] with a rating of 0.039
+(iter: 7500) Current best is [0.802, 0.642] with a rating of 0.039
+(iter: 7600) Current best is [0.802, 0.642] with a rating of 0.039
+(iter: 7700) Current best is [0.802, 0.642] with a rating of 0.039
+(iter: 7800) Current best is [0.802, 0.642] with a rating of 0.039
+(iter: 7900) Current best is [0.802, 0.642] with a rating of 0.039
+(iter: 8000) Current best is [0.802, 0.644] with a rating of 0.039
+(iter: 8100) Current best is [0.828, 0.692] with a rating of 0.033
+(iter: 8200) Current best is [1.062, 1.138] with a rating of 0.013
+(iter: 8300) Current best is [1.074, 1.161] with a rating of 0.010
+(iter: 8400) Current best is [1.074, 1.161] with a rating of 0.010
+(iter: 8500) Current best is [1.074, 1.161] with a rating of 0.010
+(iter: 8600) Current best is [1.074, 1.161] with a rating of 0.010
+(iter: 8700) Current best is [1.074, 1.161] with a rating of 0.010
+(iter: 8800) Current best is [1.074, 1.161] with a rating of 0.010
+(iter: 8900) Current best is [1.074, 1.161] with a rating of 0.010
+(iter: 9000) Current best is [1.074, 1.161] with a rating of 0.010
+(iter: 9100) Current best is [1.049, 1.101] with a rating of 0.002
+(iter: 9200) Current best is [1.049, 1.101] with a rating of 0.002
+(iter: 9300) Current best is [1.048, 1.096] with a rating of 0.002
+(iter: 9400) Current best is [1.048, 1.096] with a rating of 0.002
+(iter: 9500) Current best is [1.048, 1.096] with a rating of 0.002
+(iter: 9600) Current best is [1.048, 1.096] with a rating of 0.002
+(iter: 9700) Current best is [1.048, 1.096] with a rating of 0.002
+(iter: 9800) Current best is [1.048, 1.096] with a rating of 0.002
+(iter: 9900) Current best is [1.048, 1.096] with a rating of 0.002
+(iter: 10000) Current best is [1.048, 1.098] with a rating of 0.002
+Finally, best found is [1.048, 1.098] with a rating of 0.002
+(iter: 0) Current best is [001101001110111100, 100101100111101011] (-8.645, 67.563) with a rating of 5232.028
+(iter: 100) Current best is [001101001110111100, 100101100111101011] (-8.645, 67.563) with a rating of 5232.028
+(iter: 200) Current best is [010010010001010001, 011110110000110111] (7.093, 46.136) with a rating of 1782.983
+(iter: 300) Current best is [010010010001010001, 011110110000110111] (7.093, 46.136) with a rating of 1782.983
+(iter: 400) Current best is [010010010001010001, 011110110000110111] (7.093, 46.136) with a rating of 1782.983
+(iter: 500) Current best is [010010010001010001, 011110110000110111] (7.093, 46.136) with a rating of 1782.983
+(iter: 600) Current best is [010010010001010001, 011110110000110111] (7.093, 46.136) with a rating of 1782.983
+(iter: 700) Current best is [001101100000011110, 100010110110100011] (-7.789, 58.914) with a rating of 387.615
+(iter: 800) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 900) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 1000) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 1100) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 1200) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 1300) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 1400) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 1500) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 1600) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 1700) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 1800) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 1900) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 2000) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 2100) Current best is [001111100001111011, 010000101001001101] (-1.468, 2.012) with a rating of 8.177
+(iter: 2200) Current best is [010000101000011111, 010001010100100011] (1.977, 4.128) with a rating of 5.796
+(iter: 2300) Current best is [010000101000011111, 010001010100100011] (1.977, 4.128) with a rating of 5.796
+(iter: 2400) Current best is [010000101000011111, 010001010100100011] (1.977, 4.128) with a rating of 5.796
+(iter: 2500) Current best is [010000101000011111, 010001010100100011] (1.977, 4.128) with a rating of 5.796
+(iter: 2600) Current best is [010000001100111011, 010000000100101010] (0.631, 0.228) with a rating of 3.053
+(iter: 2700) Current best is [010000101011110111, 010001011110101010] (2.142, 4.622) with a rating of 1.426
+(iter: 2800) Current best is [010000001111000001, 010000001010011011] (0.733, 0.509) with a rating of 0.154
+(iter: 2900) Current best is [010000001111000001, 010000001010011011] (0.733, 0.509) with a rating of 0.154
+(iter: 3000) Current best is [010000001111000001, 010000001010011011] (0.733, 0.509) with a rating of 0.154
+(iter: 3100) Current best is [010000001111000001, 010000001010011011] (0.733, 0.509) with a rating of 0.154
+(iter: 3200) Current best is [010000001111000001, 010000001010011011] (0.733, 0.509) with a rating of 0.154
+(iter: 3300) Current best is [010000001111000001, 010000001010011011] (0.733, 0.509) with a rating of 0.154
+(iter: 3400) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 3500) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 3600) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 3700) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 3800) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 3900) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 4000) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 4100) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 4200) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 4300) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 4400) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 4500) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 4600) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 4700) Current best is [010000010001100011, 010000001110011001] (0.857, 0.703) with a rating of 0.120
+(iter: 4800) Current best is [010000001110100101, 010000001010001101] (0.712, 0.498) with a rating of 0.090
+(iter: 4900) Current best is [010000001110100101, 010000001010001101] (0.712, 0.498) with a rating of 0.090
+(iter: 5000) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 5100) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 5200) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 5300) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 5400) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 5500) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 5600) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 5700) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 5800) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 5900) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 6000) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 6100) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 6200) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 6300) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 6400) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 6500) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 6600) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 6700) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 6800) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 6900) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 7000) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 7100) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 7200) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 7300) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 7400) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 7500) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 7600) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 7700) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 7800) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 7900) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 8000) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 8100) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 8200) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 8300) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 8400) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 8500) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 8600) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 8700) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 8800) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 8900) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 9000) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 9100) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 9200) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 9300) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 9400) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 9500) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 9600) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 9700) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 9800) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 9900) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 10000) Current best is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+Finally, best found is [010000001111101001, 010000001100000000] (0.764, 0.586) with a rating of 0.056
+(iter: 0) Current best is [28.602, 5.215, -13.131, -17.215, -6.510] with a rating of 1614.947
+(iter: 100) Current best is [28.602, 5.215, -13.131, -17.215, -6.510] with a rating of 1614.947
+(iter: 200) Current best is [11.549, -7.219, 6.710, -6.192, 6.845] with a rating of 317.316
+(iter: 300) Current best is [10.872, 2.017, 7.997, -1.177, 10.848] with a rating of 183.447
+(iter: 400) Current best is [4.980, 4.194, 7.269, 0.726, 12.574] with a rating of 106.960
+(iter: 500) Current best is [2.022, 4.450, 7.165, 1.619, 13.383] with a rating of 100.340
+(iter: 600) Current best is [3.670, 4.681, 8.269, 1.778, 12.116] with a rating of 97.652
+(iter: 700) Current best is [3.015, 3.660, 7.451, 1.207, 12.444] with a rating of 89.847
+(iter: 800) Current best is [2.008, 3.403, 7.421, 2.247, 12.409] with a rating of 80.497
+(iter: 900) Current best is [2.271, 3.591, 7.096, 2.266, 12.227] with a rating of 76.151
+(iter: 1000) Current best is [2.656, 3.193, 7.053, 2.130, 11.835] with a rating of 70.811
+(iter: 1100) Current best is [3.364, 3.388, 6.800, 2.164, 10.845] with a rating of 59.494
+(iter: 1200) Current best is [2.904, 3.464, 6.806, 2.334, 10.582] with a rating of 54.184
+(iter: 1300) Current best is [2.484, 3.551, 6.502, 2.658, 10.766] with a rating of 51.920
+(iter: 1400) Current best is [2.420, 3.427, 6.285, 2.785, 10.030] with a rating of 41.616
+(iter: 1500) Current best is [2.493, 2.327, 6.640, 2.323, 9.767] with a rating of 41.127
+(iter: 1600) Current best is [2.556, 3.049, 6.295, 2.460, 9.845] with a rating of 40.220
+(iter: 1700) Current best is [2.436, 2.665, 6.378, 1.962, 9.298] with a rating of 36.543
+(iter: 1800) Current best is [2.050, 2.881, 5.643, 2.805, 9.050] with a rating of 26.697
+(iter: 1900) Current best is [2.338, 2.827, 4.988, 2.733, 8.986] with a rating of 23.920
+(iter: 2000) Current best is [2.178, 2.864, 5.591, 2.340, 8.066] with a rating of 21.003
+(iter: 2100) Current best is [2.397, 2.353, 5.109, 3.050, 8.349] with a rating of 18.640
+(iter: 2200) Current best is [2.253, 2.389, 4.766, 2.890, 7.759] with a rating of 13.686
+(iter: 2300) Current best is [1.979, 2.389, 5.081, 3.355, 7.759] with a rating of 13.472
+(iter: 2400) Current best is [1.180, 2.352, 5.013, 3.202, 7.269] with a rating of 9.992
+(iter: 2500) Current best is [1.473, 1.914, 3.886, 3.643, 7.319] with a rating of 6.522
+(iter: 2600) Current best is [1.457, 2.454, 3.817, 3.126, 6.624] with a rating of 4.483
+(iter: 2700) Current best is [1.457, 2.454, 3.817, 3.126, 6.624] with a rating of 4.483
+(iter: 2800) Current best is [1.483, 1.790, 3.471, 3.153, 6.547] with a rating of 3.610
+(iter: 2900) Current best is [1.647, 2.117, 3.663, 3.024, 6.167] with a rating of 3.186
+(iter: 3000) Current best is [1.487, 1.815, 3.326, 3.496, 6.231] with a rating of 2.147
+(iter: 3100) Current best is [1.325, 1.925, 3.637, 3.375, 5.092] with a rating of 0.916
+(iter: 3200) Current best is [1.220, 1.839, 2.944, 3.411, 5.268] with a rating of 0.496
+(iter: 3300) Current best is [1.220, 1.839, 2.944, 3.411, 5.268] with a rating of 0.496
+(iter: 3400) Current best is [1.163, 2.160, 3.313, 3.826, 4.618] with a rating of 0.327
+(iter: 3500) Current best is [1.201, 2.036, 3.153, 3.814, 5.110] with a rating of 0.112
+(iter: 3600) Current best is [1.201, 2.036, 3.153, 3.814, 5.110] with a rating of 0.112
+(iter: 3700) Current best is [1.126, 2.028, 3.109, 4.065, 5.031] with a rating of 0.034
+(iter: 3800) Current best is [0.914, 2.084, 2.980, 3.901, 5.057] with a rating of 0.028
+(iter: 3900) Current best is [0.982, 1.976, 2.915, 4.044, 5.003] with a rating of 0.010
+(iter: 4000) Current best is [0.997, 2.008, 2.954, 3.994, 5.035] with a rating of 0.003
+(iter: 4100) Current best is [0.997, 2.008, 2.954, 3.994, 5.035] with a rating of 0.003
+(iter: 4200) Current best is [0.997, 2.008, 2.954, 3.994, 5.035] with a rating of 0.003
+(iter: 4300) Current best is [0.997, 2.008, 2.954, 3.994, 5.035] with a rating of 0.003
+(iter: 4400) Current best is [1.019, 1.995, 2.960, 3.978, 5.001] with a rating of 0.002
+(iter: 4500) Current best is [1.017, 2.000, 2.960, 3.978, 5.004] with a rating of 0.002
+(iter: 4600) Current best is [1.008, 2.018, 2.967, 3.985, 5.022] with a rating of 0.002
+(iter: 4700) Current best is [1.017, 2.011, 2.973, 3.991, 5.019] with a rating of 0.002
+(iter: 4800) Current best is [1.017, 2.011, 2.973, 3.991, 5.019] with a rating of 0.002
+(iter: 4900) Current best is [1.017, 2.006, 2.983, 3.996, 5.021] with a rating of 0.001
+(iter: 5000) Current best is [1.017, 2.006, 2.983, 3.996, 5.021] with a rating of 0.001
+(iter: 5100) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 5200) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 5300) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 5400) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 5500) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 5600) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 5700) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 5800) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 5900) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 6000) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 6100) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 6200) Current best is [1.014, 1.999, 2.996, 3.993, 5.008] with a rating of 0.000
+(iter: 6300) Current best is [1.008, 2.005, 2.988, 3.996, 5.006] with a rating of 0.000
+(iter: 6400) Current best is [1.008, 2.005, 2.988, 3.996, 5.006] with a rating of 0.000
+(iter: 6500) Current best is [1.008, 2.005, 2.988, 3.996, 5.006] with a rating of 0.000
+(iter: 6600) Current best is [1.008, 2.005, 2.988, 3.996, 5.006] with a rating of 0.000
+(iter: 6700) Current best is [1.008, 2.005, 2.988, 3.996, 5.006] with a rating of 0.000
+(iter: 6800) Current best is [1.010, 2.004, 2.990, 3.996, 5.004] with a rating of 0.000
+(iter: 6900) Current best is [0.994, 2.003, 2.990, 3.994, 5.006] with a rating of 0.000
+(iter: 7000) Current best is [0.994, 2.003, 2.990, 3.994, 5.006] with a rating of 0.000
+(iter: 7100) Current best is [0.994, 2.003, 2.990, 3.994, 5.006] with a rating of 0.000
+(iter: 7200) Current best is [1.002, 2.003, 2.990, 3.995, 5.007] with a rating of 0.000
+(iter: 7300) Current best is [1.002, 2.003, 2.990, 3.995, 5.007] with a rating of 0.000
+(iter: 7400) Current best is [0.998, 2.003, 2.990, 3.995, 5.005] with a rating of 0.000
+(iter: 7500) Current best is [0.998, 2.003, 2.990, 3.995, 5.005] with a rating of 0.000
+(iter: 7600) Current best is [0.999, 2.003, 2.990, 3.995, 5.004] with a rating of 0.000
+(iter: 7700) Current best is [0.999, 2.003, 2.990, 3.995, 5.004] with a rating of 0.000
+(iter: 7800) Current best is [1.002, 2.003, 2.990, 3.995, 5.003] with a rating of 0.000
+(iter: 7900) Current best is [1.007, 2.004, 2.994, 3.996, 5.002] with a rating of 0.000
+(iter: 8000) Current best is [1.007, 2.004, 2.994, 3.996, 5.002] with a rating of 0.000
+(iter: 8100) Current best is [1.004, 2.004, 2.992, 3.995, 5.003] with a rating of 0.000
+(iter: 8200) Current best is [1.001, 2.003, 2.990, 4.001, 5.004] with a rating of 0.000
+(iter: 8300) Current best is [1.001, 2.003, 2.990, 4.001, 5.004] with a rating of 0.000
+(iter: 8400) Current best is [1.001, 2.003, 2.990, 4.001, 5.004] with a rating of 0.000
+(iter: 8500) Current best is [1.004, 2.004, 2.992, 3.995, 5.003] with a rating of 0.000
+(iter: 8600) Current best is [1.004, 2.004, 2.992, 3.995, 5.003] with a rating of 0.000
+(iter: 8700) Current best is [1.006, 2.004, 3.004, 3.995, 5.002] with a rating of 0.000
+(iter: 8800) Current best is [1.006, 2.004, 3.004, 3.995, 5.002] with a rating of 0.000
+(iter: 8900) Current best is [1.006, 2.004, 3.004, 3.995, 5.002] with a rating of 0.000
+(iter: 9000) Current best is [1.006, 2.004, 3.004, 3.995, 5.002] with a rating of 0.000
+(iter: 9100) Current best is [1.006, 2.004, 3.004, 3.995, 5.002] with a rating of 0.000
+(iter: 9200) Current best is [1.005, 2.004, 3.000, 3.995, 5.003] with a rating of 0.000
+(iter: 9300) Current best is [1.005, 2.004, 3.000, 3.995, 5.003] with a rating of 0.000
+(iter: 9400) Current best is [1.005, 2.004, 3.000, 3.995, 5.003] with a rating of 0.000
+(iter: 9500) Current best is [1.005, 2.004, 3.000, 3.995, 5.003] with a rating of 0.000
+(iter: 9600) Current best is [1.005, 2.004, 3.000, 3.995, 5.003] with a rating of 0.000
+(iter: 9700) Current best is [1.005, 2.004, 2.998, 3.996, 5.003] with a rating of 0.000
+(iter: 9800) Current best is [1.005, 2.004, 2.998, 3.996, 5.003] with a rating of 0.000
+(iter: 9900) Current best is [1.005, 2.003, 2.999, 3.996, 5.003] with a rating of 0.000
+(iter: 10000) Current best is [1.005, 2.004, 2.998, 3.996, 5.003] with a rating of 0.000
+Finally, best found is [1.005, 2.004, 2.998, 3.996, 5.003] with a rating of 0.000
+(iter: 0) Current best is [001111111000011000, 001111110100110100, 000110000101100011, 001101010000100101, 001000100010110100] (-0.372, -0.546, -30.978, -8.565, -23.300) with a rating of 2121.644
+(iter: 100) Current best is [001111111000011000, 001111110100110100, 000110000101100011, 001101010000100101, 001000100010110100] (-0.372,
+-0.546, -30.978, -8.565, -23.300) with a rating of 2121.644
+(iter: 200) Current best is [000101100111101001, 010000010011111101, 010011011111011000, 010001010101011110, 001001010110111010] (-32.439, 0.974, 10.907, 4.173, -20.756) with a rating of 1845.189
+(iter: 300) Current best is [000111010011011000, 010000110010111110, 001110001101010001, 010001011111001111, 010100101111011001] (-27.179, 2.489, -5.602, 4.650, 14.814) with a rating of 965.026
+(iter: 400) Current best is [000111010011011000, 010000110010111110, 001110001101010001, 010001011111001111, 010100101111011001] (-27.179, 2.489, -5.602, 4.650, 14.814) with a rating of 965.026
+(iter: 500) Current best is [001111110011111001, 010101110010111011, 001111110101100000, 011000011100000111, 010000101011111001] (-0.591,
+18.112, -0.513, 26.373, 2.143) with a rating of 783.159
+(iter: 600) Current best is [001110010111111010, 001110111010000101, 010100001110111001, 010101100101000110, 010010010011110101] (-5.083,
+-3.414, 13.227, 17.436, 7.218) with a rating of 356.367
+(iter: 700) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872,
+10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 800) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872,
+10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 900) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872,
+10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 1000) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 1100) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 1200) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 1300) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 1400) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 1500) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 1600) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 1700) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 1800) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 1900) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 2000) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 2100) Current best is [001111000101001100, 010011010010100110, 010001010100000010, 010000111101111100, 001110110011110001] (-2.872, 10.283, 4.103, 3.024, -3.722) with a rating of 161.845
+(iter: 2200) Current best is [001110110011001011, 001110111110001110, 001111111100111011, 010000011100100111, 010011011000111001] (-3.751, -3.212, -0.150, 1.397, 10.591) with a rating of 97.690
+(iter: 2300) Current best is [001110110110011000, 001110011110011101, 010001000101101101, 010001101101000100, 010010111111011011] (-3.595, -4.763, 3.404, 5.326, 9.347) with a rating of 87.665
+(iter: 2400) Current best is [001110110110011000, 001110011110011101, 010001000101101101, 010001101101000100, 010010111111011011] (-3.595, -4.763, 3.404, 5.326, 9.347) with a rating of 87.665
+(iter: 2500) Current best is [001111001111001110, 001111111010000100, 010001010110001000, 010000111000111110, 001111101001100011] (-2.382, -0.290, 4.206, 2.782, -1.096) with a rating of 56.779
+(iter: 2600) Current best is [001111001111001110, 001111111010000100, 010001010110001000, 010000111000111110, 001111101001100011] (-2.382, -0.290, 4.206, 2.782, -1.096) with a rating of 56.779
+(iter: 2700) Current best is [001111001111001110, 001111111010000100, 010001010110001000, 010000111000111110, 001111101001100011] (-2.382, -0.290, 4.206, 2.782, -1.096) with a rating of 56.779
+(iter: 2800) Current best is [001111001111001110, 001111111010000100, 010001010110001000, 010000111000111110, 001111101001100011] (-2.382, -0.290, 4.206, 2.782, -1.096) with a rating of 56.779
+(iter: 2900) Current best is [001110100110010001, 001111000110101000, 010000110001110001, 010001010010001111, 010001011111111011] (-4.381, -2.801, 2.430, 4.016, 4.684) with a rating of 52.437
+(iter: 3000) Current best is [001111110010101010, 001111110000010001, 010001100110010011, 010001101010000110, 010010000110111010] (-0.651, -0.768, 4.995, 5.181, 6.587) with a rating of 18.284
+(iter: 3100) Current best is [001111110010101010, 001111110000010001, 010001100110010011, 010001101010000110, 010010000110111010] (-0.651, -0.768, 4.995, 5.181, 6.587) with a rating of 18.284
+(iter: 3200) Current best is [001111100010111110, 001111110000100000, 010000111010111001, 010001010010110110, 010001011111111110] (-1.417, -0.757, 2.876, 4.045, 4.686) with a rating of 13.559
+(iter: 3300) Current best is [001111100010111110, 001111110000100000, 010000111010111001, 010001010010110110, 010001011111111110] (-1.417, -0.757, 2.876, 4.045, 4.686) with a rating of 13.559
+(iter: 3400) Current best is [001111100010111110, 001111110000100000, 010000111010111001, 010001010010110110, 010001011111111110] (-1.417, -0.757, 2.876, 4.045, 4.686) with a rating of 13.559
+(iter: 3500) Current best is [001111100010111110, 001111110000100000, 010000111010111001, 010001010010110110, 010001011111111110] (-1.417, -0.757, 2.876, 4.045, 4.686) with a rating of 13.559
+(iter: 3600) Current best is [001111111110101000, 001111111100100011, 010000101110110011, 010001101110000110, 010001000110110010] (-0.067, -0.168, 2.285, 5.376, 3.456) with a rating of 10.627
+(iter: 3700) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 3800) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 3900) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 4000) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 4100) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 4200) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 4300) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 4400) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 4500) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 4600) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 4700) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 4800) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 4900) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 5000) Current best is [001111110110101010, 001111111001100001, 010001000111110110, 010001000000011110, 010010000011111011] (-0.456, -0.316, 3.508, 3.148, 6.442) with a rating of 10.548
+(iter: 5100) Current best is [001111110000111010, 001111111110100110, 010000101111011011, 010001010111010110, 010001010111011000] (-0.737, -0.068, 2.316, 4.265, 4.267) with a rating of 8.372
+(iter: 5200) Current best is [001111110000111010, 001111111110100110, 010000101111011011, 010001010111010110, 010001010111011000] (-0.737, -0.068, 2.316, 4.265, 4.267) with a rating of 8.372
+(iter: 5300) Current best is [001111110000111010, 001111111110100110, 010000101111011011, 010001010111010110, 010001010111011000] (-0.737, -0.068, 2.316, 4.265, 4.267) with a rating of 8.372
+(iter: 5400) Current best is [001111110000111010, 001111111110100110, 010000101111011011, 010001010111010110, 010001010111011000] (-0.737, -0.068, 2.316, 4.265, 4.267) with a rating of 8.372
+(iter: 5500) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 5600) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 5700) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 5800) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 5900) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 6000) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 6100) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 6200) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 6300) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 6400) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 6500) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 6600) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 6700) Current best is [001111111100100000, 001111111100100111, 010000110010000011, 010001001110001010, 010001010000101000] (-0.171, -0.165, 2.444, 3.816, 3.937) with a rating of 7.532
+(iter: 6800) Current best is [001111110110111010, 001111111111011100, 010001001110101011, 010001001011001001, 010001110100111011] (-0.444, -0.027, 3.842, 3.669, 5.709) with a rating of 7.515
+(iter: 6900) Current best is [001111110110111010, 001111111111011100, 010001001110101011, 010001001011001001, 010001110100111011] (-0.444, -0.027, 3.842, 3.669, 5.709) with a rating of 7.515
+(iter: 7000) Current best is [001111110110111010, 001111111111011100, 010001001110101011, 010001001011001001, 010001110100111011] (-0.444, -0.027, 3.842, 3.669, 5.709) with a rating of 7.515
+(iter: 7100) Current best is [001111111000101010, 001111111101111000, 010001000011010111, 010001010111111100, 010001101011101101] (-0.358, -0.104, 3.289, 4.294, 5.259) with a rating of 6.508
+(iter: 7200) Current best is [001111111000101010, 001111111101111000, 010001000011010111, 010001010111111100, 010001101011101101] (-0.358, -0.104, 3.289, 4.294, 5.259) with a rating of 6.508
+(iter: 7300) Current best is [001111111000101010, 001111111101111000, 010001000011010111, 010001010111111100, 010001101011101101] (-0.358, -0.104, 3.289, 4.294, 5.259) with a rating of 6.508
+(iter: 7400) Current best is [001111111000101010, 001111111101111000, 010001000011010111, 010001010111111100, 010001101011101101] (-0.358, -0.104, 3.289, 4.294, 5.259) with a rating of 6.508
+(iter: 7500) Current best is [001111111000101010, 001111111101111000, 010001000011010111, 010001010111111100, 010001101011101101] (-0.358, -0.104, 3.289, 4.294, 5.259) with a rating of 6.508
+(iter: 7600) Current best is [001111111000101010, 001111111101111000, 010001000011010111, 010001010111111100, 010001101011101101] (-0.358, -0.104, 3.289, 4.294, 5.259) with a rating of 6.508
+(iter: 7700) Current best is [001111111000101010, 001111111101111000, 010001000011010111, 010001010111111100, 010001101011101101] (-0.358, -0.104, 3.289, 4.294, 5.259) with a rating of 6.508
+(iter: 7800) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 7900) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 8000) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 8100) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 8200) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 8300) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 8400) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 8500) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 8600) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 8700) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 8800) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 8900) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 9000) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 9100) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 9200) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 9300) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 9400) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 9500) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 9600) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 9700) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 9800) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 9900) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 10000) Current best is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+Finally, best found is [001111111000101010, 001111111111111000, 010001000011000111, 010001010111111000, 010001101011101111] (-0.358, -0.006, 3.277, 4.291, 5.261) with a rating of 6.098
+(iter: 0) Current best is [-13.273, -13.014] with a rating of 0.261
+(iter: 100) Current best is [12.282, 0.047] with a rating of 0.182
+(iter: 200) Current best is [-3.101, -5.336] with a rating of 0.048
+(iter: 300) Current best is [2.739, 1.373] with a rating of 0.015
+(iter: 400) Current best is [2.739, 1.373] with a rating of 0.015
+(iter: 500) Current best is [2.739, 1.373] with a rating of 0.015
+(iter: 600) Current best is [-1.038, -2.982] with a rating of 0.010
+(iter: 700) Current best is [-1.038, -2.982] with a rating of 0.010
+(iter: 800) Current best is [-1.020, -2.970] with a rating of 0.010
+(iter: 900) Current best is [-1.020, -2.970] with a rating of 0.010
+(iter: 1000) Current best is [-1.020, -2.970] with a rating of 0.010
+(iter: 1100) Current best is [-1.020, -2.970] with a rating of 0.010
+(iter: 1200) Current best is [-0.726, -3.053] with a rating of 0.010
+(iter: 1300) Current best is [-0.726, -3.053] with a rating of 0.010
+(iter: 1400) Current best is [-0.726, -3.053] with a rating of 0.010
+(iter: 1500) Current best is [-0.849, -3.021] with a rating of 0.010
+(iter: 1600) Current best is [-0.849, -3.021] with a rating of 0.010
+(iter: 1700) Current best is [-0.849, -3.021] with a rating of 0.010
+(iter: 1800) Current best is [-0.880, -3.012] with a rating of 0.010
+(iter: 1900) Current best is [-0.876, -3.014] with a rating of 0.010
+(iter: 2000) Current best is [-0.873, -3.015] with a rating of 0.010
+(iter: 2100) Current best is [-0.873, -3.015] with a rating of 0.010
+(iter: 2200) Current best is [-0.873, -3.015] with a rating of 0.010
+(iter: 2300) Current best is [-0.873, -3.015] with a rating of 0.010
+(iter: 2400) Current best is [-0.873, -3.015] with a rating of 0.010
+(iter: 2500) Current best is [-0.873, -3.015] with a rating of 0.010
+(iter: 2600) Current best is [-0.873, -3.015] with a rating of 0.010
+(iter: 2700) Current best is [-0.873, -3.015] with a rating of 0.010
+(iter: 2800) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 2900) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 3000) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 3100) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 3200) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 3300) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 3400) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 3500) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 3600) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 3700) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 3800) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 3900) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 4000) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 4100) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 4200) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 4300) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 4400) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 4500) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 4600) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 4700) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 4800) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 4900) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 5000) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 5100) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 5200) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 5300) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 5400) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 5500) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 5600) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 5700) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 5800) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 5900) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 6000) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 6100) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 6200) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 6300) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 6400) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 6500) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 6600) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 6700) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 6800) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 6900) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 7000) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 7100) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 7200) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 7300) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 7400) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 7500) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 7600) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 7700) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 7800) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 7900) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 8000) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 8100) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 8200) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 8300) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 8400) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 8500) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 8600) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 8700) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 8800) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 8900) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 9000) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 9100) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 9200) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 9300) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 9400) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 9500) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 9600) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 9700) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 9800) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 9900) Current best is [-0.873, -3.014] with a rating of 0.010
+(iter: 10000) Current best is [-0.873, -3.014] with a rating of 0.010
+Finally, best found is [-0.873, -3.014] with a rating of 0.010
+(iter: 0) Current best is [010100010001111011, 010010101101101000] (13.375, 8.479) with a rating of 0.191
+(iter: 100) Current best is [010100010001111011, 010010101101101000] (13.375, 8.479) with a rating of 0.191
+(iter: 200) Current best is [010100010001111011, 010010101101101000] (13.375, 8.479) with a rating of 0.191
+(iter: 300) Current best is [010100010001111011, 010010101101101000] (13.375, 8.479) with a rating of 0.191
+(iter: 400) Current best is [010100010001111011, 010010101101101000] (13.375, 8.479) with a rating of 0.191
+(iter: 500) Current best is [010100010001111011, 010010101101101000] (13.375, 8.479) with a rating of 0.191
+(iter: 600) Current best is [010100010001111011, 010010101101101000] (13.375, 8.479) with a rating of 0.191
+(iter: 700) Current best is [010100010001111011, 010010101101101000] (13.375, 8.479) with a rating of 0.191
+(iter: 800) Current best is [010011101100001000, 010001100111111010] (11.530, 5.074) with a rating of 0.128
+(iter: 900) Current best is [010010001000011101, 010010000011101011] (6.663, 6.430) with a rating of 0.099
+(iter: 1000) Current best is [010010000000100101, 010000010001111011] (6.278, 0.875) with a rating of 0.041
+(iter: 1100) Current best is [010010000000100101, 010000010001111011] (6.278, 0.875) with a rating of 0.041
+(iter: 1200) Current best is [010001000000000011, 010000010101011011] (3.127, 1.046) with a rating of 0.034
+(iter: 1300) Current best is [010000000101000011, 010001000011010101] (0.247, 3.288) with a rating of 0.034
+(iter: 1400) Current best is [010000000011100110, 010001000000000011] (0.176, 3.127) with a rating of 0.010
+(iter: 1500) Current best is [010000000011100110, 010001000000000011] (0.176, 3.127) with a rating of 0.010
+(iter: 1600) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 1700) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 1800) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 1900) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 2000) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 2100) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 2200) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 2300) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 2400) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 2500) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 2600) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 2700) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 2800) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 2900) Current best is [010000000100111100, 010001000000001010] (0.241, 3.133) with a rating of 0.010
+(iter: 3000) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 3100) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 3200) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 3300) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 3400) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 3500) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 3600) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 3700) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 3800) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 3900) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 4000) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 4100) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 4200) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 4300) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 4400) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 4500) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 4600) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 4700) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 4800) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 4900) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 5000) Current best is [010000000000000111, 010000000000000011] (0.006, 0.002) with a rating of 0.000
+(iter: 5100) Current best is [010000000000000110, 010000000000000010] (0.005, 0.002) with a rating of 0.000
+(iter: 5200) Current best is [010000000000000110, 010000000000000010] (0.005, 0.002) with a rating of 0.000
+(iter: 5300) Current best is [010000000000000110, 010000000000000010] (0.005, 0.002) with a rating of 0.000
+(iter: 5400) Current best is [010000000000000101, 010000000000000001] (0.004, 0.001) with a rating of 0.000
+(iter: 5500) Current best is [010000000000000101, 010000000000000001] (0.004, 0.001) with a rating of 0.000
+(iter: 5600) Current best is [010000000000000101, 010000000000000001] (0.004, 0.001) with a rating of 0.000
+(iter: 5700) Current best is [010000000000000101, 010000000000000001] (0.004, 0.001) with a rating of 0.000
+(iter: 5800) Current best is [010000000000000001, 010000000000000100] (0.001, 0.003) with a rating of 0.000
+(iter: 5900) Current best is [010000000000000001, 010000000000000100] (0.001, 0.003) with a rating of 0.000
+Finally, best found is [010000000000000010, 010000000000000011] (0.002, 0.002) with a rating of 0.000
+(iter: 0) Current best is [-0.764, -6.961] with a rating of 5.290
+(iter: 100) Current best is [-0.764, -6.961] with a rating of 5.290
+(iter: 200) Current best is [-0.783, 0.981] with a rating of 1.994
+(iter: 300) Current best is [1.243, 0.629] with a rating of 1.181
+(iter: 400) Current best is [0.527, 0.081] with a rating of 0.738
+(iter: 500) Current best is [0.259, -0.250] with a rating of 0.603
+(iter: 600) Current best is [0.136, 0.066] with a rating of 0.421
+(iter: 700) Current best is [-0.008, -0.001] with a rating of 0.101
+(iter: 800) Current best is [-0.008, -0.001] with a rating of 0.101
+(iter: 900) Current best is [0.006, -0.005] with a rating of 0.098
+(iter: 1000) Current best is [0.006, -0.005] with a rating of 0.098
+(iter: 1100) Current best is [0.002, 0.002] with a rating of 0.060
+(iter: 1200) Current best is [0.002, 0.002] with a rating of 0.057
+(iter: 1300) Current best is [0.003, 0.001] with a rating of 0.055
+(iter: 1400) Current best is [0.002, 0.002] with a rating of 0.055
+(iter: 1500) Current best is [-0.000, -0.000] with a rating of 0.018
+(iter: 1600) Current best is [-0.000, -0.000] with a rating of 0.015
+(iter: 1700) Current best is [-0.000, -0.000] with a rating of 0.015
+(iter: 1800) Current best is [-0.000, -0.000] with a rating of 0.006
+(iter: 1900) Current best is [-0.000, -0.000] with a rating of 0.006
+(iter: 2000) Current best is [0.000, -0.000] with a rating of 0.006
+(iter: 2100) Current best is [0.000, 0.000] with a rating of 0.005
+(iter: 2200) Current best is [0.000, -0.000] with a rating of 0.003
+(iter: 2300) Current best is [0.000, -0.000] with a rating of 0.003
+(iter: 2400) Current best is [0.000, -0.000] with a rating of 0.003
+(iter: 2500) Current best is [0.000, 0.000] with a rating of 0.001
+(iter: 2600) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 2700) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 2800) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 2900) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 3000) Current best is [-0.000, -0.000] with a rating of 0.001
+(iter: 3100) Current best is [-0.000, -0.000] with a rating of 0.001
+(iter: 3200) Current best is [-0.000, -0.000] with a rating of 0.001
+(iter: 3300) Current best is [-0.000, -0.000] with a rating of 0.001
+(iter: 3400) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 3500) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 3600) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 3700) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 3800) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 3900) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 4000) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 4100) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 4200) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 4300) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 4400) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 4500) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 4600) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 4700) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 4800) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 4900) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 5000) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 5100) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 5200) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 5300) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 5400) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 5500) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 5600) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 5700) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 5800) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 5900) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 6000) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 6100) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 6200) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 6300) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 6400) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 6500) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 6600) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 6700) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 6800) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 6900) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 7000) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 7100) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 7200) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 7300) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 7400) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 7500) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 7600) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 7700) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 7800) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 7900) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 8000) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 8100) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 8200) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 8300) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 8400) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 8500) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 8600) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 8700) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 8800) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 8900) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 9000) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 9100) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 9200) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 9300) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 9400) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 9500) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 9600) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 9700) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 9800) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 9900) Current best is [0.000, -0.000] with a rating of 0.001
+(iter: 10000) Current best is [0.000, -0.000] with a rating of 0.001
+Finally, best found is [0.000, -0.000] with a rating of 0.001
+(iter: 0) Current best is [010001010001100101, 010100010101110100] (3.984, 13.565) with a rating of 3.801
+(iter: 100) Current best is [010001010001100101, 010100010101110100] (3.984, 13.565) with a rating of 3.801
+(iter: 200) Current best is [010001001110010011, 001110011000001111] (3.823, -5.067) with a rating of 2.545
+(iter: 300) Current best is [010001001110010011, 001110011000001111] (3.823, -5.067) with a rating of 2.545
+(iter: 400) Current best is [010000000011101001, 010000010101110100] (0.178, 1.065) with a rating of 1.287
+(iter: 500) Current best is [010000000011101001, 010000010101110100] (0.178, 1.065) with a rating of 1.287
+(iter: 600) Current best is [010000001011011110, 010000000001101100] (0.560, 0.083) with a rating of 1.022
+(iter: 700) Current best is [010000001011011110, 010000000001101100] (0.560, 0.083) with a rating of 1.022
+(iter: 800) Current best is [010000001011011110, 010000000001101100] (0.560, 0.083) with a rating of 1.022
+(iter: 900) Current best is [010000001011011100, 010000010001110010] (0.559, 0.868) with a rating of 1.019
+(iter: 1000) Current best is [010000000111100100, 010000001000100001] (0.369, 0.416) with a rating of 0.908
+(iter: 1100) Current best is [010000001111011100, 010000000001111100] (0.754, 0.095) with a rating of 0.908
+(iter: 1200) Current best is [010000000011101100, 010000000000110001] (0.180, 0.038) with a rating of 0.765
+(iter: 1300) Current best is [010000000001000110, 010000000100101100] (0.054, 0.229) with a rating of 0.518
+(iter: 1400) Current best is [010000000001111101, 010000000000110111] (0.096, 0.042) with a rating of 0.374
+(iter: 1500) Current best is [010000000001111101, 010000000000110111] (0.096, 0.042) with a rating of 0.374
+(iter: 1600) Current best is [010000000001111101, 010000000000110111] (0.096, 0.042) with a rating of 0.374
+(iter: 1700) Current best is [010000000001111101, 010000000000110111] (0.096, 0.042) with a rating of 0.374
+(iter: 1800) Current best is [010000000001001110, 010000000001100011] (0.060, 0.076) with a rating of 0.313
+(iter: 1900) Current best is [010000000001001110, 010000000001100011] (0.060, 0.076) with a rating of 0.313
+(iter: 2000) Current best is [010000000001000101, 010000000000101010] (0.053, 0.032) with a rating of 0.284
+(iter: 2100) Current best is [010000000001000101, 010000000000101010] (0.053, 0.032) with a rating of 0.284
+(iter: 2200) Current best is [010000000001000101, 010000000000101010] (0.053, 0.032) with a rating of 0.284
+(iter: 2300) Current best is [010000000001000101, 010000000000101010] (0.053, 0.032) with a rating of 0.284
+(iter: 2400) Current best is [010000000001000101, 010000000000100000] (0.053, 0.025) with a rating of 0.242
+(iter: 2500) Current best is [010000000001001001, 010000000000001100] (0.056, 0.009) with a rating of 0.241
+(iter: 2600) Current best is [010000000001001001, 010000000000001100] (0.056, 0.009) with a rating of 0.241
+(iter: 2700) Current best is [010000000001001001, 010000000000001100] (0.056, 0.009) with a rating of 0.241
+(iter: 2800) Current best is [010000000001000001, 010000000000100110] (0.050, 0.029) with a rating of 0.240
+(iter: 2900) Current best is [010000000000100100, 010000000000000101] (0.028, 0.004) with a rating of 0.234
+(iter: 3000) Current best is [010000000000100100, 010000000000000101] (0.028, 0.004) with a rating of 0.234
+(iter: 3100) Current best is [010000000000100100, 010000000000000101] (0.028, 0.004) with a rating of 0.234
+(iter: 3200) Current best is [010000000000100100, 010000000000000101] (0.028, 0.004) with a rating of 0.234
+(iter: 3300) Current best is [010000000000100100, 010000000000000101] (0.028, 0.004) with a rating of 0.234
+(iter: 3400) Current best is [010000000000001100, 010000000000000100] (0.009, 0.003) with a rating of 0.171
+(iter: 3500) Current best is [010000000000000000, 010000000000001010] (0.000, 0.008) with a rating of 0.089
+(iter: 3600) Current best is [010000000000000000, 010000000000001010] (0.000, 0.008) with a rating of 0.089
+(iter: 3700) Current best is [010000000000000000, 010000000000001010] (0.000, 0.008) with a rating of 0.089
+(iter: 3800) Current best is [010000000000000000, 010000000000001010] (0.000, 0.008) with a rating of 0.089
+(iter: 3900) Current best is [010000000000000000, 010000000000001010] (0.000, 0.008) with a rating of 0.089
+(iter: 4000) Current best is [010000000000000000, 010000000000001010] (0.000, 0.008) with a rating of 0.089
+(iter: 4100) Current best is [010000000000000000, 010000000000001010] (0.000, 0.008) with a rating of 0.089
+(iter: 4200) Current best is [010000000000000000, 010000000000001010] (0.000, 0.008) with a rating of 0.089
+(iter: 4300) Current best is [010000000000000000, 010000000000001010] (0.000, 0.008) with a rating of 0.089
+(iter: 4400) Current best is [010000000000000000, 010000000000001010] (0.000, 0.008) with a rating of 0.089
+(iter: 4500) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 4600) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 4700) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 4800) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 4900) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 5000) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 5100) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 5200) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 5300) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 5400) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 5500) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 5600) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 5700) Current best is [010000000000000000, 010000000000000100] (0.000, 0.003) with a rating of 0.059
+(iter: 5800) Current best is [010000000000000011, 010000000000000010] (0.002, 0.002) with a rating of 0.055
+(iter: 5900) Current best is [010000000000000011, 010000000000000010] (0.002, 0.002) with a rating of 0.055
+(iter: 6000) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 6100) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 6200) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 6300) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 6400) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 6500) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 6600) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 6700) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 6800) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 6900) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 7000) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 7100) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 7200) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 7300) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 7400) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 7500) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 7600) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 7700) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 7800) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 7900) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 8000) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 8100) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 8200) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 8300) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 8400) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 8500) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 8600) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 8700) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 8800) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 8900) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 9000) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 9100) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 9200) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 9300) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 9400) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 9500) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 9600) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 9700) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 9800) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 9900) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+(iter: 10000) Current best is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017
+Finally, best found is [010000000000000000, 010000000000000000] (0.000, 0.000) with a rating of 0.017

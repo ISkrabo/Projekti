@@ -1,0 +1,7 @@
+Programi su ostvareni u programskom jeziku Python. 
+Pokretani su putem Visual Studio Code.
+
+Za pokretanje Vjezbe 2 potrebno je pokrenuti main.py
+Program ce provrtjeti sve implementirane funkcije.
+AES i 3-DES imaju implementirane naèine kriptiranja CBC i OFB
+SHA-2 i SHA-2 obje imaju omoguæene inaèice 256 i 512

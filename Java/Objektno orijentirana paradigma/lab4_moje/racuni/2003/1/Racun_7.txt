@@ -1,0 +1,11 @@
+Racun br. 17462894
+Kupac:
+
+Proizvod                                                                            Cijena  ###    Ukupno       PDV
+-------------------------------------------------------------------------------------------------------------------
+                                                                                                         ----------
+UKUPNO                                                                                                     24799.54
+
+
+
+Račun je generiran od fiktivnih podataka i služi samo u svrhu izvođenja ove laboratorijske vježbe

@@ -1,0 +1,3 @@
+Simulacija starog mosta i automobila koji žele preći preko mosta
+Most nije dovoljno širok te može jedino puštati aute u jednom smjeru
+Semafor prati koliko auta ima te ih pušta preko mosta, ovisno o trenutnom dopuštenom smjeru prelaska
